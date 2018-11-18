@@ -1,2 +1,2 @@
-# SECW3
-Contains the java files for cw3
+# Software engineering final coursework
+Implemented a menu ordering software in a restaurant
